@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elicailo
 - 👀 I’m interested in Pyton and R Studio
-- 🌱 I’m currently learning AI, DS and Bid Data
+- 🌱 I’m currently learning AI, DS and Big Data
 - 💞️ I’m looking to collaborate on Business Tech
 - 📫 How to reach me: <elicailo@gmail.com>
 
